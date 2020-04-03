@@ -1,0 +1,63 @@
+[submodule "start/vim-gitgutter"]
+	path = start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "start/vim-trailing-whitespace"]
+	path = start/vim-trailing-whitespace
+	url = https://github.com/bronson/vim-trailing-whitespace
+[submodule "start/ctrlp.vim"]
+	path = start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim
+[submodule "start/jedi-vim"]
+	path = start/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim
+[submodule "start/vim-easymotion"]
+	path = start/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion
+[submodule "start/colorizer"]
+	path = start/colorizer
+	url = https://github.com/lilydjwg/colorizer
+[submodule "start/supertab"]
+	path = start/supertab
+	url = https://github.com/ervandew/supertab
+[submodule "start/tagbar"]
+	path = start/tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "start/emmet-vim"]
+	path = start/emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "start/vim-indent-object"]
+	path = start/vim-indent-object
+	url = https://github.com/michaeljsmith/vim-indent-object
+[submodule "start/nerdcommenter"]
+	path = start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "start/nerdtree"]
+	path = start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "start/vim-autopep8"]
+	path = start/vim-autopep8
+	url = https://github.com/tell-k/vim-autopep8
+[submodule "start/matchit"]
+	path = start/matchit
+	url = https://github.com/tmhedberg/matchit
+[submodule "start/molokai"]
+	path = start/molokai
+	url = https://github.com/tomasr/molokai
+[submodule "start/vim-fugitive"]
+	path = start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "start/vim-repeat"]
+	path = start/vim-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "start/vim-surround"]
+	path = start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "start/vim-airline"]
+	path = start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "start/YankRing.vim"]
+	path = start/YankRing.vim
+	url = https://github.com/vim-scripts/YankRing.vim
+[submodule "start/ale"]
+	path = start/ale
+	url = https://github.com/w0rp/ale
