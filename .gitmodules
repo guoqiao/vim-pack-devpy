@@ -64,3 +64,6 @@
 [submodule "opt/badwolf"]
 	path = opt/badwolf
 	url = https://github.com/sjl/badwolf.git
+[submodule "opt/molokai"]
+	path = opt/molokai
+	url = https://github.com/tomasr/molokai
