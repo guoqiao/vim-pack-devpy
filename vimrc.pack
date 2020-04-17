@@ -1,5 +1,7 @@
 " plugins configure
 
+" colorscheme gruvbox
+" colorscheme badwolf
 colorscheme molokai
 let g:lightline = {'colorscheme': 'molokai'}
 
