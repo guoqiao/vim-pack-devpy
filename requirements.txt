@@ -1,5 +1,6 @@
-flake8
-pylint
-pyflakes
 autopep8
+flake8
 jedi
+pyflakes
+pylint
+pynvim
